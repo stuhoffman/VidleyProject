@@ -28,7 +28,8 @@ namespace Vidley.Controllers
             return Content("Id=" + movieId);
         }
 
-        public ActionResult ByReleaseDate(int year, int month)
+        [Route("movies/released/{year}/{month:regex(\\d{2}):range(1,12)}")]
+        public ActionResult ByReleaseYear(int year, int month)
         {
             return Content(year + "/" + month);
         }
