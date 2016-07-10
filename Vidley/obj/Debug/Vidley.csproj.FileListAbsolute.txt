@@ -80,3 +80,8 @@ C:\Users\stu\Documents\Visual Studio 2015\Projects\Vidley\Vidley\bin\Microsoft.O
 C:\Users\stu\Documents\Visual Studio 2015\Projects\Vidley\Vidley\obj\Debug\Vidley.dll
 C:\Users\stu\Documents\Visual Studio 2015\Projects\Vidley\Vidley\obj\Debug\Vidley.pdb
 C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\obj\Debug\Vidley.csprojResolveAssemblyReference.cache
+C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\bin\log4net.dll
+C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\bin\Migrations.dll
+C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\bin\log4net.xml
+C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\obj\Debug\Vidley.Migrations.InitialModel.resources
+C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\obj\Debug\Vidley.csproj.GenerateResource.Cache
