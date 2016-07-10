@@ -5,6 +5,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using Vidley.Models;
+using Vidley.ViewModels;
 
 namespace Vidley.Controllers
 {
@@ -14,8 +15,19 @@ namespace Vidley.Controllers
         public ActionResult Random()
         {
             var movie = new Movie() { Name = "Shrek!" };
+            var customers = new List<Customer>
+            {
+                new Customer { Name = "Customer 1" },
+                new Customer { Name = "Customer 2" }
+            };
 
-            return View(movie);
+            var viewModel = new RandomMovieViewModel
+            {
+                Movie = movie,
+                Customers = customers
+            };
+
+            return View(viewModel);
 
         }
 
