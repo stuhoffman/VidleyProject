@@ -88,3 +88,4 @@ C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\obj\Debug\Vidle
 C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\obj\Debug\Vidley.Migrations.AssIsSubscribedToCustomer.resources
 C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\obj\Debug\Vidley.Migrations.AddMembershipType.resources
 C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\obj\Debug\Vidley.Migrations.PopulateMembershipTypes.resources
+C:\Users\stu\documents\visual studio 2015\Projects\Vidley\Vidley\obj\Debug\Vidley.Migrations.ApplyAnnotationsToCustomerName.resources
